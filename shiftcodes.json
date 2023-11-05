@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2023-10-27 16:24:47.073463+00:00"
+        "human": "2023-11-05 00:24:47.868942+00:00"
       },
-      "newcodecount": 4
+      "newcodecount": 1
     },
     "codes": [
       {
@@ -1847,6 +1847,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      },
+      {
+        "code": "4C10S-8HKD3-H5HKS-3S6S2-S5S9H",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "5 Diamond Key",
+        "archived": "2023-11-05 00:24:40.582099+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
         "code": "9F6TJ-HBT3B-JTTBJ-TJT3J-RRWB5",
