@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2023-12-01 20:23:13.561883+00:00"
+        "human": "2023-12-07 20:23:13.267466+00:00"
       },
-      "newcodecount": 4
+      "newcodecount": 1
     },
     "codes": [
       {
@@ -2055,6 +2055,17 @@
         "archived": "2023-09-30 23:16:09.111205+00:00",
         "expires": "Sept 27, 2021",
         "expired": true,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
+        "code": "KSKJB-TCFJR-W9JFW-Z3TBB-W3FXW",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "1 Diamond Key (Source: S1E9)",
+        "archived": "2023-12-07 20:23:05.707485+00:00",
+        "expires": "Unknown",
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
