@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2023-12-07 20:23:13.267466+00:00"
+        "human": "2023-12-15 08:23:12.765365+00:00"
       },
-      "newcodecount": 1
+      "newcodecount": 4
     },
     "codes": [
       {
@@ -287,6 +287,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
       },
       {
+        "code": "SX6TT-JXTBB-TJT3T-BJJBJ-CZRJ5",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2023-12-15 08:23:01.276148+00:00",
+        "expires": "Dec 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      },
+      {
         "code": "ZRFBB-HKJ33-3TBJ3-JJTTB-5F5BF",
         "type": "shift",
         "game": "Borderlands 2",
@@ -294,7 +305,7 @@
         "reward": "3 Golden Keys",
         "archived": "2023-12-01 20:23:02.886415+00:00",
         "expires": "Dec 7",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
@@ -1761,6 +1772,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
+        "code": "SX6TT-JXTBB-TJT3T-BJJBJ-CZRJ5",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2023-12-15 08:23:04.487469+00:00",
+        "expires": "Dec 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
         "code": "ZRFBB-HKJ33-3TBJ3-JJTTB-5F5BF",
         "type": "shift",
         "game": "Borderlands 3",
@@ -1768,7 +1790,7 @@
         "reward": "3 Golden Keys",
         "archived": "2023-12-01 20:23:06.085520+00:00",
         "expires": "Dec 7",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
@@ -2212,6 +2234,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
+        "code": "SX6TT-JXTBB-TJT3T-BJJBJ-CZRJ5",
+        "type": "shift",
+        "game": "Borderlands The Pre-Sequel",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2023-12-15 08:23:07.493114+00:00",
+        "expires": "Dec 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
+      },
+      {
         "code": "ZRFBB-HKJ33-3TBJ3-JJTTB-5F5BF",
         "type": "shift",
         "game": "Borderlands The Pre-Sequel",
@@ -2219,7 +2252,7 @@
         "reward": "3 Golden Keys",
         "archived": "2023-12-01 20:23:09.173102+00:00",
         "expires": "Dec 7",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
@@ -3774,6 +3807,17 @@
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
+        "code": "SX6TT-JXTBB-TJT3T-BJJBJ-CZRJ5",
+        "type": "shift",
+        "game": "Tiny Tina's Wonderlands",
+        "platform": "universal",
+        "reward": "3 Skeleton Keys",
+        "archived": "2023-12-15 08:23:11.278140+00:00",
+        "expires": "Dec 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
+      },
+      {
         "code": "ZRFBB-HKJ33-3TBJ3-JJTTB-5F5BF",
         "type": "shift",
         "game": "Tiny Tina's Wonderlands",
@@ -3781,7 +3825,7 @@
         "reward": "3 Skeleton Keys",
         "archived": "2023-12-01 20:23:12.473625+00:00",
         "expires": "Dec 7",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
