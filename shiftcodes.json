@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2024-06-07 06:49:00.105085+00:00"
+        "human": "2024-06-14 08:49:00.611350+00:00"
       },
-      "newcodecount": 29
+      "newcodecount": 4
     },
     "codes": [
       {
@@ -331,6 +331,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
       },
       {
+        "code": "SXFTJ-R6XT3-3JBJ3-BT3B3-ZJJRW",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-06-14 08:48:47.689732+00:00",
+        "expires": "June 20",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      },
+      {
         "code": "966BB-TXSKJ-JJJ3J-333J3-XK56J",
         "type": "shift",
         "game": "Borderlands 2",
@@ -404,7 +415,7 @@
         "reward": "3 Golden Keys",
         "archived": "2024-06-07 06:48:48.988693+00:00",
         "expires": "June 13",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
@@ -1992,6 +2003,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
+        "code": "SXFTJ-R6XT3-3JBJ3-BT3B3-ZJJRW",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-06-14 08:48:52.052217+00:00",
+        "expires": "June 20",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
         "code": "966BB-TXSKJ-JJJ3J-333J3-XK56J",
         "type": "shift",
         "game": "Borderlands 3",
@@ -2065,7 +2087,7 @@
         "reward": "3 Golden Keys",
         "archived": "2024-06-07 06:48:52.364729+00:00",
         "expires": "June 13",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
@@ -2531,6 +2553,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
+        "code": "SXFTJ-R6XT3-3JBJ3-BT3B3-ZJJRW",
+        "type": "shift",
+        "game": "Borderlands The Pre-Sequel",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-06-14 08:48:55.636775+00:00",
+        "expires": "June 20",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
+      },
+      {
         "code": "966BB-TXSKJ-JJJ3J-333J3-XK56J",
         "type": "shift",
         "game": "Borderlands The Pre-Sequel",
@@ -2604,7 +2637,7 @@
         "reward": "3 Golden Keys",
         "archived": "2024-06-07 06:48:55.528822+00:00",
         "expires": "June 13",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
@@ -4291,6 +4324,17 @@
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
+        "code": "SXFTJ-R6XT3-3JBJ3-BT3B3-ZJJRW",
+        "type": "shift",
+        "game": "Tiny Tina's Wonderlands",
+        "platform": "universal",
+        "reward": "3 Skeleton Keys",
+        "archived": "2024-06-14 08:48:59.441030+00:00",
+        "expires": "June 20",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
+      },
+      {
         "code": "Z6XJ3-SBRCT-BBJ33-BT3JJ-5RHTK",
         "type": "shift",
         "game": "Tiny Tina's Wonderlands",
@@ -4298,7 +4342,7 @@
         "reward": "3 Skeleton Keys",
         "archived": "2024-06-07 06:48:59.075603+00:00",
         "expires": "June 13",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
