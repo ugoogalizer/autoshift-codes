@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2024-08-23 08:17:24.467216+00:00"
+        "human": "2024-08-25 10:17:49.964385+00:00"
       },
-      "newcodecount": 14
+      "newcodecount": 4
     },
     "codes": [
+      {
+        "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
+        "type": "shift",
+        "game": "Borderlands: Game of the Year Edition",
+        "platform": "universal",
+        "reward": "10 Golden Keys",
+        "archived": "2024-08-25 10:17:35.201142+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
       {
         "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
         "type": "shift",
@@ -373,6 +384,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
+        "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "10 Golden Keys",
+        "archived": "2024-08-25 10:17:38.172886+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
         "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
@@ -2034,6 +2056,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      },
+      {
+        "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "10 Golden Keys + 1 Diamond Key ",
+        "archived": "2024-08-25 10:17:41.494470+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
         "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
@@ -4322,6 +4355,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
+      },
+      {
+        "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
+        "type": "shift",
+        "game": "Tiny Tina's Wonderlands",
+        "platform": "universal",
+        "reward": "10 Golden Keys",
+        "archived": "2024-08-25 10:17:48.772371+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
         "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
