@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2024-08-25 10:17:49.964385+00:00"
+        "human": "2024-08-27 16:17:50.073691+00:00"
       },
-      "newcodecount": 4
+      "newcodecount": 5
     },
     "codes": [
+      {
+        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
+        "type": "shift",
+        "game": "Borderlands: Game of the Year Edition",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-08-27 16:17:35.310531+00:00",
+        "expires": "Aug 29",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
       {
         "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
         "type": "shift",
@@ -384,6 +395,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
+        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-08-27 16:17:38.594391+00:00",
+        "expires": "Aug 29",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
         "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
@@ -2058,6 +2080,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
+        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-08-27 16:17:41.884731+00:00",
+        "expires": "Aug 29",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
         "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
         "type": "shift",
         "game": "Borderlands 3",
@@ -2606,6 +2639,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
+        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
+        "type": "shift",
+        "game": "Borderlands The Pre-Sequel",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-08-27 16:17:45.106465+00:00",
+        "expires": "Aug 29",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
         "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
@@ -4357,11 +4401,22 @@
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
+        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
+        "type": "shift",
+        "game": "Tiny Tina's Wonderlands",
+        "platform": "universal",
+        "reward": "3 Skeleton Keys",
+        "archived": "2024-08-27 16:17:48.983102+00:00",
+        "expires": "Aug 29",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
+      },
+      {
         "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
         "type": "shift",
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
-        "reward": "10 Golden Keys",
+        "reward": "10 Skeleton Keys",
         "archived": "2024-08-25 10:17:48.772371+00:00",
         "expires": "Unknown",
         "expired": false,
@@ -4372,7 +4427,7 @@
         "type": "shift",
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
-        "reward": "10 Golden Keys",
+        "reward": "10 Skeleton Keys",
         "archived": "2024-08-23 08:17:23.286772+00:00",
         "expires": "Unknown",
         "expired": false,
@@ -4383,7 +4438,7 @@
         "type": "shift",
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
-        "reward": "10 Golden Keys",
+        "reward": "10 Skeleton Keys",
         "archived": "2024-08-23 08:17:23.286772+00:00",
         "expires": "Unknown",
         "expired": false,
@@ -4416,7 +4471,7 @@
         "type": "shift",
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
-        "reward": "SDCC 2024 Golden Keys",
+        "reward": "SDCC 2024 Skeleton Keys",
         "archived": "2024-08-04 12:48:58.151887+00:00",
         "expires": "Unknown",
         "expired": false,
