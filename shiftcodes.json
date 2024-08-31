@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2024-08-29 22:17:50.364809+00:00"
+        "human": "2024-08-31 08:17:50.170886+00:00"
       },
-      "newcodecount": 5
+      "newcodecount": 4
     },
     "codes": [
+      {
+        "code": "CSCB3-STW6X-THCHC-HBTBJ-3ZFZH",
+        "type": "shift",
+        "game": "Borderlands: Game of the Year Edition",
+        "platform": "universal",
+        "reward": "5 PAX West Keys",
+        "archived": "2024-08-31 08:17:36.220481+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
       {
         "code": "ZRFB3-WXCB3-J3TJ3-BJT3B-SCKF3",
         "type": "shift",
@@ -406,6 +417,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
+        "code": "CSCB3-STW6X-THCHC-HBTBJ-3ZFZH",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "5 PAX West Keys",
+        "archived": "2024-08-31 08:17:39.517738+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
         "code": "ZRFB3-WXCB3-J3TJ3-BJT3B-SCKF3",
@@ -2102,6 +2124,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
+        "code": "CSCB3-STW6X-THCHC-HBTBJ-3ZFZH",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "5 PAX West Keys + Diamond Key",
+        "archived": "2024-08-31 08:17:42.714922+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
         "code": "ZRFB3-WXCB3-J3TJ3-BJT3B-SCKF3",
         "type": "shift",
         "game": "Borderlands 3",
@@ -2672,6 +2705,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
+        "code": "CSCB3-STW6X-THCHC-HBTBJ-3ZFZH",
+        "type": "shift",
+        "game": "Borderlands The Pre-Sequel",
+        "platform": "universal",
+        "reward": "5 PAX West Keys",
+        "archived": "2024-08-31 08:17:45.798891+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
         "code": "ZRFB3-WXCB3-J3TJ3-BJT3B-SCKF3",
