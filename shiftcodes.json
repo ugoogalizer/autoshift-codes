@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2024-09-14 08:58:21.140274+00:00"
+        "human": "2024-09-18 20:03:16.044308+00:00"
       },
-      "newcodecount": 5
+      "newcodecount": 1
     },
     "codes": [
       {
@@ -406,6 +406,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
+        "code": "C9WJB-6WWX6-BHKZ5-H33T3-ZC5BC",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "12 Golden Keys",
+        "archived": "2024-09-18 20:03:05.002087+00:00",
+        "expires": "Sept 19",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
         "code": "H6FBB-RHKJ3-BTJJB-J3BTJ-3KWZJ",
