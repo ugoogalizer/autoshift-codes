@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2024-12-17 21:21:03.240918+00:00"
+        "human": "2024-12-19 11:17:44.364060+00:00"
       },
-      "newcodecount": 379
+      "newcodecount": 151
     },
     "codes": [
       {
@@ -2833,7 +2833,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "10 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Dec 19",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2844,7 +2844,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Dec 5",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2855,7 +2855,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Nov 28",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2866,7 +2866,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Nov 21",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2877,7 +2877,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Nov 14",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2888,7 +2888,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys (Bugged)",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Nov 7",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2899,7 +2899,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "10 Anniversary Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Nov 14",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2910,7 +2910,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Oct 31",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2921,7 +2921,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Oct 24",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2932,7 +2932,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Oct 17",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2943,7 +2943,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Oct 10",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2954,7 +2954,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Oct 3",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2965,7 +2965,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Sept 26",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2976,7 +2976,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Sept 19",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2987,7 +2987,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Sept 12",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -2998,7 +2998,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "50 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3009,7 +3009,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 PAX West Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3020,7 +3020,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Sept 5",
         "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3031,7 +3031,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "10 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3042,7 +3042,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "10 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3053,7 +3053,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "SDCC 2024 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3064,7 +3064,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "1 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3075,7 +3075,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "1 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3086,7 +3086,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "1 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3097,7 +3097,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "1 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3108,7 +3108,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "1 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3119,7 +3119,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "1 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3130,7 +3130,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3141,7 +3141,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3152,7 +3152,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3163,7 +3163,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3174,7 +3174,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3185,7 +3185,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3196,7 +3196,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3207,7 +3207,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3218,7 +3218,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3229,7 +3229,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "25 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3240,7 +3240,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "25 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3251,7 +3251,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3262,7 +3262,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3273,7 +3273,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3284,7 +3284,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3295,7 +3295,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3306,7 +3306,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3317,7 +3317,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3328,7 +3328,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3339,7 +3339,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3350,7 +3350,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3361,7 +3361,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3372,7 +3372,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3383,7 +3383,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3394,7 +3394,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3405,7 +3405,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3416,7 +3416,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3427,7 +3427,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3438,7 +3438,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3449,7 +3449,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3460,7 +3460,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3471,7 +3471,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3482,7 +3482,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3493,7 +3493,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3504,7 +3504,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3515,7 +3515,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3526,7 +3526,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3537,7 +3537,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3548,7 +3548,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3559,7 +3559,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3570,7 +3570,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3581,7 +3581,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3592,7 +3592,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3603,7 +3603,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3614,7 +3614,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3625,7 +3625,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3636,7 +3636,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3647,7 +3647,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3658,7 +3658,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3669,7 +3669,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3680,7 +3680,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3691,7 +3691,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3702,7 +3702,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3713,7 +3713,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3724,7 +3724,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3735,7 +3735,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3746,7 +3746,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3757,7 +3757,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3768,7 +3768,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3779,7 +3779,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3790,7 +3790,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3801,7 +3801,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3812,7 +3812,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3823,7 +3823,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3834,7 +3834,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3845,7 +3845,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3856,7 +3856,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3867,7 +3867,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3878,7 +3878,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3889,7 +3889,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "steam",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3900,7 +3900,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "epic",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3911,7 +3911,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "25 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3922,7 +3922,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3933,7 +3933,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3944,7 +3944,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3955,7 +3955,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3966,7 +3966,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3977,7 +3977,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3988,7 +3988,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -3999,7 +3999,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4010,7 +4010,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4021,7 +4021,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4032,7 +4032,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4043,7 +4043,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4054,7 +4054,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4065,7 +4065,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4076,7 +4076,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4087,7 +4087,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4098,7 +4098,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4109,7 +4109,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4120,7 +4120,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4131,7 +4131,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4142,7 +4142,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4153,7 +4153,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4164,7 +4164,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4175,7 +4175,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4186,7 +4186,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4197,7 +4197,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4208,7 +4208,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4219,7 +4219,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4230,7 +4230,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4241,7 +4241,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "Playstation",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4252,7 +4252,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "25 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4263,7 +4263,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4274,7 +4274,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4285,7 +4285,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4296,7 +4296,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4307,7 +4307,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4318,7 +4318,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4329,7 +4329,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4340,7 +4340,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4351,7 +4351,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4362,7 +4362,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4373,7 +4373,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4384,7 +4384,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4395,7 +4395,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4406,7 +4406,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4417,7 +4417,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4428,7 +4428,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4439,7 +4439,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4450,7 +4450,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "5 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4461,7 +4461,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4472,7 +4472,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4483,7 +4483,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4494,7 +4494,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4505,7 +4505,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4516,7 +4516,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4527,7 +4527,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4538,7 +4538,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4549,7 +4549,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4560,7 +4560,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4571,7 +4571,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4582,7 +4582,7 @@
         "game": "Borderlands The Pre-Sequel",
         "platform": "xbox",
         "reward": "3 Golden Keys",
-        "archived": "2024-12-17 21:20:56.826040+00:00",
+        "archived": "2024-12-19 11:17:39.705293+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
@@ -4593,7 +4593,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "10 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Dec 19",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4604,7 +4604,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Dec 5",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4615,7 +4615,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Nov 28",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4626,7 +4626,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Nov 21",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4637,7 +4637,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Nov 14",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4648,7 +4648,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys (Bugged)",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Nov 7",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4659,7 +4659,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Oct 31",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4670,7 +4670,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Oct 24",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4681,7 +4681,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Oct 17",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4692,7 +4692,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Oct 10",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4703,7 +4703,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Oct 3",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4714,7 +4714,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Sept 26",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4725,7 +4725,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Sept 19",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4736,7 +4736,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Sept 12",
         "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4747,7 +4747,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "50 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4758,7 +4758,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "10 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4769,7 +4769,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "10 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4780,7 +4780,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "10 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4791,7 +4791,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "SDCC 2024 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4802,7 +4802,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "Knights of Butt Stallion",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4813,7 +4813,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "Swordsplosion",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
@@ -4824,7 +4824,7 @@
         "game": "Tiny Tina's Wonderlands",
         "platform": "universal",
         "reward": "3 Skeleton Keys",
-        "archived": "2024-12-17 21:21:01.781130+00:00",
+        "archived": "2024-12-19 11:17:43.127979+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
