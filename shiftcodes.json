@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2025-10-12 09:15:26.145649+00:00"
+        "human": "2025-10-12 10:32:10.261829+00:00"
       },
-      "newcodecount": 3
+      "newcodecount": 4
     },
     "codes": [
       {
@@ -96,6 +96,50 @@
         "reward": "1 Golden Key",
         "archived": "2025-10-01 14:14:11.989195+00:00",
         "expires": "???",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "JZ6BJ-SBR5J-WF3BK-BT3BB-TX9HB",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Amon Cosmetic\u201cCult Classic\u201d",
+        "archived": "2025-10-12 10:31:46.563671+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "TZXT3-XJXCB-CXBJW-BTTJT-9SK6B",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Rafa Cosmetic\u201cSavings Savior\u201d",
+        "archived": "2025-10-12 10:31:46.563671+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "JS63J-JSCWJ-CFTBW-3TJ3J-WJS5R",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Break FreeCosmetic Pack",
+        "archived": "2025-10-12 10:31:46.563671+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "T9RJB-BFKRR-3RBTW-B33TB-KCZB9",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "1 Golden Key",
+        "archived": "2025-10-12 10:31:46.563671+00:00",
+        "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
