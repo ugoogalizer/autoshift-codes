@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2025-10-22 08:04:22.086028+00:00"
+        "human": "2025-10-23 20:04:22.383044+00:00"
       },
-      "newcodecount": 2
+      "newcodecount": 3
     },
     "codes": [
+      {
+        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Halloween Skins",
+        "archived": "2025-10-23 20:03:57.959856+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "J96JT-BCXKT-C6JJ5-JTJBB-BZTXJ",
         "type": "shift",
@@ -63,6 +74,28 @@
         "reward": "1 Golden Key",
         "archived": "2025-10-01 14:14:11.989195+00:00",
         "expires": "???",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Gourd Your LoinsPumpkin Head",
+        "archived": "2025-10-23 20:03:57.959856+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Hex AppealWeapon Skin",
+        "archived": "2025-10-23 20:03:57.959856+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
