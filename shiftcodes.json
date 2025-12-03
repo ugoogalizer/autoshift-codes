@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2025-11-25 21:52:27.133726+00:00"
+        "human": "2025-12-03 15:52:29.018792+00:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "T9F33-TXW9J-5RTT5-3JTJJ-RR6R6",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Key",
+        "archived": "2025-12-03 15:52:04.458390+00:00",
+        "expires": "Dec 9, 2025",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "JZX33-ZKWST-5XT3W-JTBJ3-66BXB",
         "type": "shift",
@@ -19,17 +30,6 @@
         "reward": "3 Golden Key",
         "archived": "2025-11-25 21:52:04.487051+00:00",
         "expires": "Dec 2, 2025",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "JHFJB-6KCHJ-5XBB5-JBTBJ-6FRRJ",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "3 Golden Key",
-        "archived": "2025-11-19 07:52:04.564341+00:00",
-        "expires": "Nov 25, 2025",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
@@ -82,18 +82,7 @@
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
-        "reward": "Gourd Your LoinsPumpkin Head",
-        "archived": "2025-10-23 20:03:57.959856+00:00",
-        "expires": "Dec 31, 2030",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Hex AppealWeapon Skin",
+        "reward": "Halloween Cosmetics",
         "archived": "2025-10-23 20:03:57.959856+00:00",
         "expires": "Dec 31, 2030",
         "expired": false,
