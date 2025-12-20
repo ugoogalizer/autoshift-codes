@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2025-12-20 15:52:27.436045+00:00"
+        "human": "2025-12-20 19:52:27.127604+00:00"
       },
-      "newcodecount": 1
+      "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "J9XTB-SJWS3-WRTTC-BJTJJ-TH6TX",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "ECHO-4 Drone Skin",
+        "archived": "2025-12-20 19:52:04.869350+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "5ZWJ3-FKWS6-3959C-Z3TB3-W95J5",
         "type": "shift",
@@ -85,6 +96,17 @@
         "reward": "1 Golden Key",
         "archived": "2025-10-01 14:14:11.989195+00:00",
         "expires": "???",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "J9XTB-SJWS3-WRTTC-BJTJJ-TH6TX",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "ECHO-4 Drone SkinA Winter Borderland",
+        "archived": "2025-12-20 19:52:04.869350+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
