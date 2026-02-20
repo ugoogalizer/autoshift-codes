@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-02-17 19:46:02.000010+00:00"
+        "human": "2026-02-20 09:46:02.832276+00:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "39XJB-C36SB-5RBJC-TBJBT-SC9J3",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-02-20 09:45:38.147495+00:00",
+        "expires": "Feb 24, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "BH633-66F5C-WFBB5-33TJB-CBSR9",
         "type": "shift",
@@ -162,6 +173,17 @@
         "reward": "1 Golden Key",
         "archived": "2026-01-30 17:45:37.701452+00:00",
         "expires": "???",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "BH633-66F5C-WFBB5-33TJB-CBSR9",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter SkinYou\u2019re So Vein",
+        "archived": "2026-02-17 19:45:38.038894+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
