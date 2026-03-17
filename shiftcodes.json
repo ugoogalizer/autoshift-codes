@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-03-13 07:46:04.331023+00:00"
+        "human": "2026-03-17 09:46:04.126708+00:00"
       },
-      "newcodecount": 1
+      "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "J963B-S66WK-56J3K-JJT3T-BF9T5",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter SkinLuck of the Kairish",
+        "archived": "2026-03-17 09:45:38.080141+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "BZ63J-TKF9T-WR3BK-3BBJJ-KWFWR",
         "type": "shift",
@@ -74,6 +85,17 @@
         "reward": "1 Golden Key",
         "archived": "2026-01-30 17:45:37.701452+00:00",
         "expires": "???",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "J963B-S66WK-56J3K-JJT3T-BF9T5",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter skinLuck of the Kairish",
+        "archived": "2026-03-17 09:45:38.080141+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
