@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-03-26 23:46:03.830436+00:00"
+        "human": "2026-03-29 09:46:02.926033+00:00"
       },
       "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "THX3B-H9FCW-CRBT5-BBJ3T-SXT65",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "1 Golden KeyEllie DLC Credits",
+        "archived": "2026-03-29 09:45:38.168472+00:00",
+        "expires": "Never",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "WH5TB-BS5SR-3HC9W-HT3B3-STRKW",
         "type": "shift",
@@ -272,6 +283,17 @@
         "reward": "Break FreeCosmetic Pack",
         "archived": "2026-01-30 17:45:37.701452+00:00",
         "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "THX3B-H9FCW-CRBT5-BBJ3T-SXT65",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "1 Golden Key",
+        "archived": "2026-03-29 09:45:38.168472+00:00",
+        "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
