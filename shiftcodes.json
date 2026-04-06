@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-04-03 09:46:01.234874+00:00"
+        "human": "2026-04-06 20:46:03.399797+00:00"
       },
-      "newcodecount": 1
+      "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "3ZRT3-K59KK-W6BJ5-B3TJ3-9WT99",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "C4SH CosmeticLike Vermillion Bucks",
+        "archived": "2026-04-06 20:45:38.131692+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "3SFJB-SK6ZJ-KRTT5-B3BT3-3ST9W",
         "type": "shift",
@@ -118,6 +129,17 @@
         "reward": "1 Golden Key",
         "archived": "2026-01-30 17:45:37.701452+00:00",
         "expires": "???",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3ZRT3-K59KK-W6BJ5-B3TJ3-9WT99",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "C4SH CosmeticLike Vermillion Bucks",
+        "archived": "2026-04-06 20:45:38.131692+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
