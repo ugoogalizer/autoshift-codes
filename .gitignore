@@ -1,1 +1,4 @@
 mergeCodes.py
+__pycache__/
+*.pyc
+*.pyo
